@@ -25,7 +25,7 @@ Writing large software systems that work is difficult and expensive. Maintaining
 - Shorter lead times.
 
 
-## Autor  
+## Author  
 
 | Name: | Linkedin: | email: |  
 | ---------- | ------------- | ------------- |
