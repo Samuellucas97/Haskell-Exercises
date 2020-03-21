@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Theses repository contains my exercises 
+Theses repository contains my exercises to learn Haskell language programming. 
 
 
 
