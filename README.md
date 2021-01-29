@@ -1,10 +1,3 @@
-# Haskell Exercises
-
-
-<p align="center">
-<img style="margin: -30px;" src="https://www.archer.ie/wp-content/uploads/2019/10/haskell--logo.png" width="22%"  />
-</p>
-
 ## Introduction
 
 Theses repository contains my exercises to learn Haskell language programming. 
